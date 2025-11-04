@@ -505,9 +505,9 @@ $base_url = $protocol . "://" . $host;
                 <span class="menu-icon">💳</span>
                 <span>Centros de trabajos</span>
             </a>
-            <a href="../../public/ejemplo/index.php" class="menu-item <?php echo basename($_SERVER['PHP_SELF']) == 'productos.php' ? 'active' : ''; ?>">
+            <a href="../../public/carrerastecnicas/index.php" class="menu-item <?php echo basename($_SERVER['PHP_SELF']) == 'productos.php' ? 'active' : ''; ?>">
                 <span class="menu-icon">📦</span>
-                <span>Página de ejemplo</span>
+                <span>Carreras técnicas</span>
             </a>
             <a href="configuracion.php" class="menu-item <?php echo basename($_SERVER['PHP_SELF']) == 'configuracion.php' ? 'active' : ''; ?>">
                 <span class="menu-icon">⚙️</span>
