@@ -497,13 +497,13 @@ $base_url = $protocol . "://" . $host;
                 <span class="menu-icon">👥</span>
                 <span>Usuarios</span>
             </a>
-            <a href="analiticas.php" class="menu-item <?php echo basename($_SERVER['PHP_SELF']) == 'analiticas.php' ? 'active' : ''; ?>">
+            <a href="../../public/centroseducativos/index.php" class="menu-item <?php echo basename($_SERVER['PHP_SELF']) == 'analiticas.php' ? 'active' : ''; ?>">
                 <span class="menu-icon">📈</span>
-                <span>Analíticas</span>
+                <span>Centros Educativos</span>
             </a>
-            <a href="ventas.php" class="menu-item <?php echo basename($_SERVER['PHP_SELF']) == 'ventas.php' ? 'active' : ''; ?>">
+            <a href="../../public/centrosdetrabajos/index.php" class="menu-item <?php echo basename($_SERVER['PHP_SELF']) == 'ventas.php' ? 'active' : ''; ?>">
                 <span class="menu-icon">💳</span>
-                <span>Ventas</span>
+                <span>Centros de trabajos</span>
             </a>
             <a href="../../public/ejemplo/index.php" class="menu-item <?php echo basename($_SERVER['PHP_SELF']) == 'productos.php' ? 'active' : ''; ?>">
                 <span class="menu-icon">📦</span>

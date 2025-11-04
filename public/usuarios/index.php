@@ -364,7 +364,7 @@ $additionalScripts = "
 // Capturar el contenido de la página
 ob_start();
 ?>
-<h1>Registro de Usuarios</h1>
+<!-- <h1>Registro de Usuarios</h1> -->
 <!-- Aquí va tu contenido personalizado -->
  
 <div class="container">
